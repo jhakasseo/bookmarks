@@ -1058,6 +1058,7 @@ type `curl ident.me` to know your public ip
 * [Innovating Now!](https://innovatingnow.wordpress.com/2011/05/05/ck-theory/) - (2011) CK Theory : The Concept Knowledge Theory
 * [Jason Fried](https://m.signalvnoise.com/the-intimidating-zero-4d90fcdcc3b2) - The Intimidating Zero
 * [DIY Projects](https://diyprojects.com/) - Craft Ideas & How To’s for Home Decor with Videos
+* [DIY Woodworking Projects](https://www.ultrawoodworking.com/) - Wood Crafting Ideas & Tips, Plans & Videos
 * [Hackaday](http://hackaday.com/) - fresh hacks every day
 * [Louis-Xavier Lavallée](https://www.slideshare.net/LouisXavierLavalle/10-reasons-why-successful-leaders-are-keeping-a-journal-58921004) - [Slides] 10 Reasons Why Successful Leaders Are Keeping a Journal
 * [NanoDano](http://www.devdungeon.com/content/i-know-how-program-i-dont-know-what-program) - "I know how to program, but I don't know what to program"
